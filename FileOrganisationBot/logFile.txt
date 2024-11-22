@@ -1,0 +1,5 @@
+﻿Moved file: laptop.png to folder: C:\Users\jyoth\OneDrive\Documents\UiPath\FileOrganisationBot\OrganizedFiles
+Moved file: logo-v2 meqr.jpg to folder: C:\Users\jyoth\OneDrive\Documents\UiPath\FileOrganisationBot\OrganizedFiles
+Moved file: mcqweek1.docx to folder: C:\Users\jyoth\OneDrive\Documents\UiPath\FileOrganisationBot\OrganizedFiles
+Moved file: Organs.pptx to folder: C:\Users\jyoth\OneDrive\Documents\UiPath\FileOrganisationBot\OrganizedFiles
+Moved file: Profile (2).pdf to folder: C:\Users\jyoth\OneDrive\Documents\UiPath\FileOrganisationBot\OrganizedFiles
